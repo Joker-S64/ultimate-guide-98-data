@@ -1285,3 +1285,13 @@
 		}
 	]
 }
+
+{
+			"fighter_id": "Superstar Athena",
+			"runes": [
+				{
+					"rune_id": "HEART",
+					"description": "",
+					"description_es": "",
+					"desceiption_pt": ""
+				}
